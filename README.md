@@ -18,4 +18,4 @@ We’re a group of data aficionados from Purdue University who want to make it e
 * **Measured progress** – A rubric guided  by the capability maturity model, supporting realistic expectations for the individual researcher, and reaffirming the value of their efforts through short term rewards to motivate researchers to continue through the long process of research data production.​
 * **Collaborative framework** –  Guided by thoughtful data professionals, having conversations at key stages throughout the research process, and leveraging additional resources to bridge the gap between FAIR guidelines and active data production.
 
-* 
+![orienting a path to FAIR from the RDAP 2024 poster "FAIR from plan to preservation"](https://github.com/purdue-data-boosters-club/FAIR-start-to-finish/blob/main/docs/RDAP2024.png)
